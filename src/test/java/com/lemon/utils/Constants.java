@@ -16,5 +16,5 @@ public class Constants {
     public static final String DB_USER = "future";
     public static final String DB_PASSWORD = "123456";
     //控制台日志输出开关（true表示输出）
-    public static final boolean SHOW_CONSOLE_LOG=true;
+    public static final boolean SHOW_CONSOLE_LOG=false;
 }
